@@ -1,0 +1,14 @@
+'sqlite_arm_o0'
+'sqlite_arm_o1'
+'sqlite_arm_o2'
+'sqlite_arm_o3'
+'sqlite_mips_o0'
+'sqlite_mips_o1'
+'sqlite_mips_o2'
+'sqlite_mips_o3'
+'sqlite_x86_o0'
+'sqlite_x86_o1'
+'sqlite_x86_o2'
+'sqlite_x86_o3'
+
+

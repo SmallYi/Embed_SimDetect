@@ -1,0 +1,6 @@
+openssl-gcc-o3----->openssl-clang-o3 Res:0.9923 Inmodel_NUM:258.0 Inmodel_Total:260 Test_NUM:333 Model_NUM:494 Key:1
+openssl-gcc-o3----->openssl-clang-o3 Res:1.1846 Inmodel_NUM:308.0 Inmodel_Total:260 Test_NUM:333 Model_NUM:494 Key:10
+openssl-gcc-o3----->openssl-clang-o3 Res:1.2269 Inmodel_NUM:319.0 Inmodel_Total:260 Test_NUM:333 Model_NUM:494 Key:20
+openssl-clang-o3----->openssl-gcc-o3 Res:1.3407 Inmodel_NUM:362.0 Inmodel_Total:270 Test_NUM:494 Model_NUM:333 Key:1
+openssl-clang-o3----->openssl-gcc-o3 Res:1.7519 Inmodel_NUM:473.0 Inmodel_Total:270 Test_NUM:494 Model_NUM:333 Key:10
+openssl-clang-o3----->openssl-gcc-o3 Res:1.7815 Inmodel_NUM:481.0 Inmodel_Total:270 Test_NUM:494 Model_NUM:333 Key:20

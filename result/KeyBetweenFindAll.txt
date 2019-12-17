@@ -1,0 +1,9 @@
+sqlite_mips_o0----->sqlite_arm_o0 Res:0.0003 Inmodel_NUM:1.0 Inmodel_Total:3643 Test_NUM:3766 Model_NUM:3884 Key:1
+sqlite_mips_o0----->sqlite_arm_o0 Res:0.0022 Inmodel_NUM:8.0 Inmodel_Total:3643 Test_NUM:3766 Model_NUM:3884 Key:5
+sqlite_mips_o0----->sqlite_arm_o0 Res:0.0033 Inmodel_NUM:12.0 Inmodel_Total:3643 Test_NUM:3766 Model_NUM:3884 Key:10
+sqlite_mips_o0----->sqlite_arm_o0 Res:0.0052 Inmodel_NUM:19.0 Inmodel_Total:3643 Test_NUM:3766 Model_NUM:3884 Key:20
+sqlite_x86_o0----->sqlite_arm_o0 Res:0.0003 Inmodel_NUM:1.0 Inmodel_Total:3644 Test_NUM:3761 Model_NUM:3884 Key:1
+sqlite_x86_o0----->sqlite_arm_o0 Res:0.0019 Inmodel_NUM:7.0 Inmodel_Total:3644 Test_NUM:3761 Model_NUM:3884 Key:5
+sqlite_x86_o0----->sqlite_arm_o0 Res:0.0044 Inmodel_NUM:16.0 Inmodel_Total:3644 Test_NUM:3761 Model_NUM:3884 Key:10
+sqlite_x86_o0----->sqlite_arm_o0 Res:0.0069 Inmodel_NUM:25.0 Inmodel_Total:3644 Test_NUM:3761 Model_NUM:3884 Key:20
+
