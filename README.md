@@ -34,3 +34,4 @@ lsh.index([[1, 2, 3, 4, 5, 6, 7, 8],
 print(lsh.query([1, 2, 3, 4, 5, 6, 7, 7], distance_func='jaccard'))
 ```
 
+# Embed_SimDetect
